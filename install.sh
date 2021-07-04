@@ -1,6 +1,8 @@
 #!/bin/sh
 set -e
 
+brew tap homebrew/cask-drivers
+
 brew reinstall --cask --force android-file-transfer
 brew reinstall --cask --force audacity
 brew reinstall --cask --force discord
