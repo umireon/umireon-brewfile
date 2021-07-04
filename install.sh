@@ -1,26 +1,26 @@
 #!/bin/sh
 set -e
 
-brew install --cask android-file-transfer
-brew install --cask audacity
-brew install --cask discord
-brew install --cask docker
-brew install --cask firefox
-brew install --cask fork
-brew install --cask github
-brew install --cask google-chrome
-brew install --cask google-cloud-sdk
-brew install --cask google-drive
-brew install --cask keka
-brew install --cask netgear-switch-discovery-tool
-brew install --cask obs
-brew install --cask plantronics-hub
-brew install --cask qfinder-pro
-brew install --cask qudedup-extract-tool
-brew install --cask vagrant
-brew install --cask virtualbox
-brew install --cask visual-studio-code
-brew install --cask wireshark
+brew install --cask --force android-file-transfer
+brew install --cask --force audacity
+brew install --cask --force discord
+brew install --cask --force docker
+brew install --cask --force firefox
+brew install --cask --force fork
+brew install --cask --force github
+brew install --cask --force google-chrome
+brew install --cask --force google-cloud-sdk
+brew install --cask --force google-drive
+brew install --cask --force keka
+brew install --cask --force netgear-switch-discovery-tool
+brew install --cask --force obs
+brew install --cask --force plantronics-hub
+brew install --cask --force qfinder-pro
+brew install --cask --force qudedup-extract-tool
+brew install --cask --force vagrant
+brew install --cask --force virtualbox
+brew install --cask --force visual-studio-code
+brew install --cask --force wireshark
 
 brew install dash
 brew install ffmpeg
