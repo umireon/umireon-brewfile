@@ -27,6 +27,7 @@ brew reinstall --cask --force wireshark
 brew reinstall --force dash
 brew reinstall --force ffmpeg
 brew reinstall --force go
+brew reinstall --force imagemagick
 brew reinstall --force mp3gain
 brew reinstall --force nmap
 brew reinstall --force python@3.8
