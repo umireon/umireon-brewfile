@@ -3,7 +3,6 @@ set -e
 
 brew tap homebrew/cask-drivers
 
-brew reinstall --cask --force android-file-transfer
 brew reinstall --cask --force audacity
 brew reinstall --cask --force discord
 brew reinstall --cask --force docker
@@ -19,8 +18,6 @@ brew reinstall --cask --force obs
 brew reinstall --cask --force plantronics-hub
 brew reinstall --cask --force qfinder-pro
 brew reinstall --cask --force qudedup-extract-tool
-brew reinstall --cask --force vagrant
-brew reinstall --cask --force virtualbox
 brew reinstall --cask --force visual-studio-code
 brew reinstall --cask --force wireshark
 
